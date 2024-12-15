@@ -1,4 +1,25 @@
 
+ leetcode solution
+  class Solution {
+  public:
+      int reverse(int x) {
+  {
+      long res;
+      res = 0;
+      while (x)
+      {
+          res = res * 10 + x % 10;
+          x /= 10;
+      }
+      res = (res < INT_MIN || res > INT_MAX ) ? 0 : res;
+      return (res);
+  }
+
+     }
+ };
+
+##
+
 #include <iostream>
 using namespace std;
 int main()
@@ -15,22 +36,3 @@ int main()
     cout << res << endl;
     return (0);
 }
-
-// leetcode solution
-//  class Solution {
-//  public:
-//      int reverse(int x) {
-//  {
-//      long res;
-//      res = 0;
-//      while (x)
-//      {
-//          res = res * 10 + x % 10;
-//          x /= 10;
-//      }
-//      res = (res < INT_MIN || res > INT_MAX ) ? 0 : res;
-//      return (res);
-//  }
-
-//     }
-// };
