@@ -1,5 +1,5 @@
 #leetcode solution
-``class Solution {
+class Solution {
 public:
     int reverse(int x) {
 {
@@ -15,5 +15,5 @@ public:
 }
 
     }
-};``
+};
 
