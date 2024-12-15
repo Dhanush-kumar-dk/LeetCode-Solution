@@ -4,5 +4,5 @@ My C++ solutions of [LeetCode Online Judge](https://leetcode.com/problemset/algo
 ## Table
 |  #  |      Title      |     Solution    |    Difficulty   | Tag  |        Discuss            |
 |-----|---------------- | --------------- | --------------- | -----|-------------------------- |
-|  7  | [Reverse](https://leetcode.com/problems/reverse-integer/description/) | [C++](https://github.com/Dhanush-kumar-dk/LeetCode-Solution/blob/main/LeetCode/Reverse.cpp) | Easy | Array / Hash Table | [discuss](https://leetcode.com/problems/reverse-integer/solutions/5572539/easy-and-simple-c-approach-beats-100-beginner-friendly/) |
+|  7  | [7-Reverseinteger](https://leetcode.com/problems/reverse-integer/description/) | [C++](https://github.com/Dhanush-kumar-dk/LeetCode-Solution/blob/main/LeetCode/7-ReverseInteger.cpp) | Easy | Array / Hash Table | [discuss](https://leetcode.com/problems/reverse-integer/solutions/5572539/easy-and-simple-c-approach-beats-100-beginner-friendly/) |
 
