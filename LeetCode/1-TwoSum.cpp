@@ -1,18 +1,35 @@
-#include <bits/stdc++.h>
-using namespace std;
-vector<int> twoSum(vector<int> &nums, int target)
-{
-    int nums[4] = {2, 7, 11, 15};
-    target = 9;
-    for (int i = 0; i < nums.size(); i++)
-    {
-        for (int j = i + 1; j < nums.size(); j++)
-        {
-            if (nums[i] + nums[j] == target)
-            {
-                return {i, j};
+class Solution {
+public:
+    vector<int> twoSum(vector<int>& nums, int target) {
+        unordered_map<int, int> d;
+        for (int i = 0;; ++i) {
+            int x = nums[i];
+            int y = target - x;
+            if (d.contains(y)) {
+                return {d[y], i};
             }
+            d[x] = i;
         }
     }
-    return {};
-}
+};
+
+
+#JavaScript
+/**
+ * @param {number[]} nums
+ * @param {number} target
+ * @return {number[]}
+ */
+var twoSum = function(nums, target) {
+  const value = {}
+  for( i=0; i<nums.length; i++){
+    const currentnumber = nums[i]
+    const neededvalue = target - currentnumber
+    const index2 = value[neededvalue]
+    if(index2 !=null){
+    return [ index2, i]
+    }else{
+    value[currentnumber]= i
+    }
+  }  
+};
