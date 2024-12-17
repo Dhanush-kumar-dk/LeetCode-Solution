@@ -4,5 +4,5 @@ My C++ solutions of [LeetCode Online Judge](https://leetcode.com/problemset/algo
 ## Table
 |  #  |      Title      |     Solution    |    Difficulty   | Tag  |
 |-----|---------------- | --------------- | --------------- | -----|
-|  1  |   [1-Two-Sum](https://leetcode.com/problems/Two-Sum/description/) | [C++](https://github.com/Dhanush-kumar-dk/LeetCode-Solution/blob/main/LeetCode/1-TwoSum.cpp),[Javascript](https://github.com/Dhanush-kumar-dk/LeetCode-Solution/blob/main/LeetCode/1-Two-Sum.cpp) | Easy | Array / Hash Table |
+|  1  |   [1-Two-Sum](https://leetcode.com/problems/Two-Sum/description/) | [C++](https://github.com/Dhanush-kumar-dk/LeetCode-Solution/blob/main/LeetCode/1-TwoSum.cpp),[Javascript](https://github.com/Dhanush-kumar-dk/LeetCode-Solution/blob/main/LeetCode/1-TwoSum.cpp) | Easy | Array / Hash Table |
 |  7  | [7-Reverseinteger](https://leetcode.com/problems/reverse-integer/description/) | [C++](https://github.com/Dhanush-kumar-dk/LeetCode-Solution/blob/main/LeetCode/7-ReverseInteger.cpp) | Easy | Array / Hash Table | 
