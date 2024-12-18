@@ -1,3 +1,4 @@
+
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
@@ -13,6 +14,7 @@ public:
     }
 };
 
+
 #C++
 class Solution {
 public:
@@ -27,6 +29,7 @@ public:
         return vector<int> {};
     };
 };
+
 
 #JavaScript
 /**
