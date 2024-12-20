@@ -8,4 +8,6 @@ My C++ solutions of [LeetCode Online Judge](https://leetcode.com/problemset/algo
 |  2  |   [2-Add-Two-Numbers](https://leetcode.com/problems/Add-Two-Numbers/description/) | [C++](https://github.com/Dhanush-kumar-dk/LeetCode-Solution/blob/main/LeetCode/2-AddTwoNumbers.cpp) ,[Javascript](https://github.com/Dhanush-kumar-dk/LeetCode-Solution/blob/main/LeetCode/2-AddTwoNumbers.cpp)| Medium | Linked List |
 |  7  | [7-Reverseinteger](https://leetcode.com/problems/reverse-integer/description/) | [C++](https://github.com/Dhanush-kumar-dk/LeetCode-Solution/blob/main/LeetCode/7-ReverseInteger.cpp) | Easy | Array / Hash Table | 
 |  9  |   [9-Palindrome-Number](https://leetcode.com/problems/Palindrome-Number/description/) | [C++](https://github.com/Dhanush-kumar-dk/LeetCode-Solution/blob/main/LeetCode/9-PalindromeNumber.cpp) | Easy | Math |
+|  13  |   [13-Roman-to-Integer](https://leetcode.com/problems/Roman-to-Integer/description/) | [C++](https://github.com/Dhanush-kumar-dk/LeetCode-Solution/blob/main/LeetCode/13-Roman-to-Integer.cpp) | Easy | String |
+
 
