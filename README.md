@@ -9,5 +9,4 @@ My C++ solutions of [LeetCode Online Judge](https://leetcode.com/problemset/algo
 |  9  |   [9-Palindrome-Number](https://leetcode.com/problems/Palindrome-Number/description/) | [C++](https://github.com/Dhanush-kumar-dk/LeetCode-Solution/blob/main/LeetCode/9-PalindromeNumber.cpp) | Easy | Math |
 |  13  |   [13-Roman-to-Integer](https://leetcode.com/problems/Roman-to-Integer/description/) | [C++](https://github.com/Dhanush-kumar-dk/LeetCode-Solution/blob/main/LeetCode/13-RomantoInteger.cpp) | Easy | String |
 |  14  |   [14-Longest-Common-Prefix](https://leetcode.com/problems/LongestCommonPrefix/description/) | [C++](https://github.com/Dhanush-kumar-dk/LeetCode-Solution/blob/main/LeetCode/14-Longest-Common-Prefix.cpp) | Easy | String|
-
-
+|  20  |   [20-Valid-Parentheses](https://leetcode.com/problems/ValidParentheses/description/) | [C++](https://github.com/Dhanush-kumar-dk/LeetCode-Solution/blob/main/LeetCode/20-Valid-Parentheses.cpp) | Easy | Stack|
